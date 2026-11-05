@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary / output videos
+res_*.mp4
+images/sample_frame_*.jpg
+
+# Configs and local environments
+.yolo_config/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
